@@ -1,4 +1,4 @@
-
+![akbanner](https://www.canva.com/design/DAED37mpt7U/view?utm_content=DAED37mpt7U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 # Hi, I'm Avril !
 
@@ -9,8 +9,9 @@ I look forward to implementing the skills that I have gained and finding where I
 
 
 - :sparkles: I’m currently Javascript & jquery.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: My name means April in French but I was born in July.
+- :two_hearts: Pronouns: she/her
+- :rose: Fun fact: My name means April in French but I was born in July :joy:.
 
 
-> Don't be afraid to live up in the sky - Pharell
+
+> **Don't be afraid to live up in the sky - Pharell** :cloud:
