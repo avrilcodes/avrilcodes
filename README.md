@@ -1,4 +1,4 @@
-![akbanner](https://www.canva.com/design/DAED37mpt7U/view?utm_content=DAED37mpt7U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 
 # Hi, I'm Avril !
 
@@ -14,4 +14,4 @@ I look forward to implementing the skills that I have gained and finding where I
 
 
 
-> **Don't be afraid to live up in the sky - Pharell** :cloud:
+### > **Don't be afraid to live up in the sky - Pharell** :cloud:
