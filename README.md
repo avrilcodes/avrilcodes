@@ -1,3 +1,6 @@
+https://www.canva.com/design/DAED37mpt7U/vZ1nPNVxJ1PQsA_aXcItWA/view?utm_content=DAED37mpt7U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+
 <h1> Hi, I'm Avril !</h1>
 
 I'm a Software Engineer from New York City and I currently attend The New York City School of Technology as a Computer Information Systems major. 
