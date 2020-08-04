@@ -1,4 +1,4 @@
-![akbanner](AKBANNER.PNG)
+
 
 # Hi, I'm Avril !
 
@@ -8,10 +8,10 @@ It requires me to think outside of the box and motivates me to keep learning sin
 I look forward to implementing the skills that I have gained and finding where I fit best in this amazing world of Computer Science.
 
 
-- :sparkles: I’m currently Javascript & jquery.
-- :two_hearts: Pronouns: she/her
+- :star: I’m currently Javascript & jquery.
+- :heart: Pronouns: she/her
 - :rose: Fun fact: My name means April in French but I was born in July :joy:.
 
 
 
-> ### **Don't be afraid to live up in the sky - Pharell** :cloud:
+> ### **Don't be afraid to live up in the sky - Pharell** :sunny:
