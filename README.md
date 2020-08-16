@@ -8,10 +8,6 @@ It requires me to think outside of the box and motivates me to keep learning sin
 I look forward to implementing the skills that I have gained and finding where I fit best in this amazing world of Computer Science.
 
 
-- :star: I’m currently learning Javascript & jquery.
+- :star: I’m currently learning Javascript.
 - :heart: Pronouns: she/her
 - :rose: Fun fact: My name means April in French but I was born in July :joy:.
-
-
-
-> ### **Don't be afraid to live up in the sky - Pharell** 
