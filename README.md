@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Avril  < :purple_heart: />
+# Hi, I'm Avril  <:purple_heart:/>
 
 I'm a **Software Engineer** from in New York City. I enjoy programming because 
 it encourages me to be innovative, creative and a problem solver. It requires 
