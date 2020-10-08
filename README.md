@@ -7,18 +7,17 @@ me to think outside of the box and motivates me to keep learning since technolog
 is continuously evolving. I'm currently on the self-taught path to **Fullstack Engineering**. 
 
 
-:computer: Tech I use: .java , .js , .html , .css , .sql
+:computer: I use: .java , .js , .html , .css , .sql
 <br>
-:spiral_notepad: Learning: React, Node.js(Express) and Open Source Contribution.
+:gear: Learning: React and Node.js(Express).
 <br>
-:heart_decoration: Loves: Rollerskating, Astrology, Plants/Flowers, Yoga.
+:two_hearts: Loves: Rollerskating, Astrology, Plants/Flowers, Yoga.
 <br>
 :cyclone: Community Member of: NBSE, Color Stack and Break Through Tech.
 
 
 
-> Definitions belong to the definer, not the defined..
-- Toni Morrison :rose:
+> Definitions belong to the definer, not the defined.. - Toni Morrison :rose:
 
 
 
