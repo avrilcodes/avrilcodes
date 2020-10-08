@@ -2,7 +2,7 @@
 
 ### Hey! I'm Avril :beetle:
 
-I'm a Software Engineer from NYC and I enjoy programming because it encourages me to be innovative, creative also a problem solver. It requires 
+I'm a Software Engineer from NYC. I enjoy programming because it encourages me to be innovative, creative and also a problem solver. It requires 
 me to think outside of the box and motivates me to keep learning since technology
 is continuously evolving. I'm currently on the self-taught path to **Fullstack Engineering**. 
 
