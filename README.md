@@ -1,8 +1,8 @@
 
 
-# Hey! I'm Avril :rose:
+# Hey! I'm Avril, a Software Engineer from NYC. :beetle:
 
-I'm a Software Engineer from NYC, I enjoy programming because it encourages me to be innovative, creative and also a problem solver. It requires 
+I enjoy programming because it encourages me to be innovative, creative and also a problem solver. It requires 
 me to think outside of the box and motivates me to keep learning since technology
 is continuously evolving. I'm currently on the self-taught path to **Fullstack Engineering**. 
 
@@ -11,7 +11,7 @@ is continuously evolving. I'm currently on the self-taught path to **Fullstack E
 <br>
 :brain: Learning: React and Node.js (Express).
 <br>
-:two_hearts: Love: Music, Rollerskating, Astrology, Plants, Flowers.
+:two_hearts: Loves: Music, Rollerskating, Astrology, Plants, Flowers.
 <br>
 :busts_in_silhouette: Community Member of: NSBE, Color Stack and Google's Women TechMakers.
 
