@@ -11,7 +11,7 @@ is continuously evolving. I'm currently on the self-taught path to **Fullstack E
 <br>
 :gear: Learning: React and Node.js(Express).
 <br>
-:two_hearts: Loves: Dancing, Rollerskating, Astrology, Plants,Flowers, Yoga.
+:two_hearts: Loves: Music, Rollerskating, Astrology, Plants, Flowers, Yoga.
 <br>
 :cyclone: Community Member of: NBSE, Color Stack and Google's Women TechMakers.
 
