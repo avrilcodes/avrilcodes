@@ -9,7 +9,7 @@ is continuously evolving. I'm currently on the self-taught path to **Fullstack E
 
 :gear: I use: Java, JavaScript, HTML, CSS, SQL.
 <br>
-:brain: Learning: React and Node.js (Express).
+:brain: Learning: React, Node.js (Express) and AWS.
 <br>
 :two_hearts: Loves: Music, Rollerskating, Astrology, Plants, Flowers.
 <br>
