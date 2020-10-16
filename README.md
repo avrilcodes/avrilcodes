@@ -8,11 +8,11 @@ is continuously evolving. I'm currently on the self-taught path to **Fullstack E
 
 
 * :gear: I use: Java, JavaScript, HTML, CSS, SQL.
-<br>
+
 * :brain: Learning: React, Node.js (Express) and AWS.
-<br>
+
 * :two_hearts: Loves: Music, Rollerskating, Astrology, Plants, Flowers.
-<br>
+
 * :busts_in_silhouette: Community Member of: NSBE, Color Stack and Google's Women TechMakers.
 
 
