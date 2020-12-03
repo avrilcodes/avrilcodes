@@ -1,6 +1,6 @@
 
 
-# Hey! I'm Avril, Fron-End Engineer from NYC. :beetle:
+# Hey! I'm Avril, Front-End Engineer from NYC. :beetle:
 
 I enjoy programming because it encourages me to be innovative, creative and also a problem solver. It requires 
 me to think outside of the box and motivates me to keep learning since technology
