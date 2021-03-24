@@ -1,6 +1,6 @@
 
 
-# Hey! I'm Avril, Software Engineer from NYC. :beetle:
+# Hey! I'm Avril, Web Developer from NYC. :beetle:
 
 * :gear: I use: Java, JavaScript, Node.js, HTML, CSS, SQL.
 * :brain: Learning: AWS Cloud Computing 
